@@ -6,7 +6,7 @@ describe('Test should return title object',function () {
     it('should return title',function () {
       //console.log(getTitle());
       var title = getTitle().title;
-      var titleEx = "Hansi";
+      var titleEx = "Hansi1";
       //console.log(title +":" + titleEx);
       //expect(title).tobe("{title: 'Hansi'}");
       //assert.deepEqual(title,titleEx);
